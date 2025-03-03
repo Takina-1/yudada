@@ -17,7 +17,7 @@ public class TsetAi {
 
     @Test
     public void test() {
-        String apiKey = "f9480a30dce84a528b3158423b58be72.TaJy0hV6bJVxAk9n";
+        String apiKey = "自己的"
         // 创建客户端
         ClientV4 client = new ClientV4.Builder(apiKey).build();
         // 构造请求
